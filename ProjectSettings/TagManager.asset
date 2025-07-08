@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - WorldBoundary
+  - Organism
+  - Food
+  - MicroscopeHUD
+  - BackgroundMusic
+  - HUDPause
+  - QuitSimulation
+  - FoodPanel
+  - OrganismPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - World
+  - Food
+  - Organism
+  - LineRenderer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2045479795
+    locked: 0
+  m_RenderingLayers:
+  - Default
